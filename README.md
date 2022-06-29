@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudd01
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning dsa with python
+- 👀 I work as a Python Backend Developer
+- 🌱 My role has bit of devOps overlap wrt deployments,scaling etc.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/anirudd01/
 
